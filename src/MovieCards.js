@@ -1,4 +1,4 @@
-
+import './MovieCards.css';
 
 const MovieCard = ({title, rating, releaseDate, director, url}) => {
     return (
